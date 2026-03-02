@@ -1,0 +1,9 @@
+gifs_baixados/
+gerar_api_estatica.py
+otimizar_videos.py
+baixar_gifs.py
+pw_page.html
+.DS_Store
+venv/
+__pycache__/
+*.txt
